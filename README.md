@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🎓  I'm an **Electrical Engineer** with *Master's degree* in **Control Systems** 🎛️.
+- 👨‍💼  I've `4+ years` of experience in *Automotive Industry*🚗🏍️ and *Industrial Automation* 🤖🦾.
+- 💡  I'm experienced in *Controls Systems* `Motor Control`, *Power Electronics*🧑‍🏭 & *Embedded Software*💻.
+
 <!--
 **SomeshS0311/SomeshS0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
